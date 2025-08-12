@@ -6,26 +6,26 @@ I'm a CS student at Old Dominion and developer who learns by doing - currently w
 
 ## 🧠 About Me
 
-- 🎓 Junior studying Computer Science  
+- :mortar_board: Junior studying Computer Science  
 - 🧱 Partially self-taught - I dive deep into backend systems and APIs outside class  
 - 🛠 Building an **interpreted scripting language** in modern C++ (no frameworks, no hand-holding)  
 - 🕸️ Focused on backend development: APIs, databases, containerized deployments  
-- 🐍 Python was my intro to programming; I taught myself C++  
+- :snake: Python was my intro to programming; I taught myself C++  
 
 ---
 
-## 🧪 What I'm Working On
+## :test_tube: What I'm Working On
 
-### ⚙️ [MyScriptLang (WIP)](https://github.com/Stephen-A-Steyaert/smplscript)
+### :construction: [smplscript](https://github.com/Stephen-A-Steyaert/smplscript)
 
 A small, interpreted scripting language with a built-in REPL, written entirely in C++.
 
 **Current features & goals:**  
-- ✍️ Hand-built tokenizer + parser (recursive descent)  
-- 🔁 Bytecode virtual machine  
-- 📥 REPL and file execution  
-- 🔤 Dynamic typing and simple built-ins  
-- 🧪 Focused on learning, not performance  
+- :pencil2: Hand-built tokenizer + parser (recursive descent)  
+- :repeat: Bytecode virtual machine  
+- :inbox_tray: REPL and file execution  
+- :abc: Dynamic typing and simple built-ins  
+- :test_tube: Focused on learning, not performance  
 
 > Learning how languages work — by building one from the ground up.
 
@@ -43,19 +43,19 @@ Django, REST APIs
 Docker, GitHub Actions, Traefik, Nginx, uv
 
 **Testing:**  
-Pytest, Factory Boy
+Pytest, Factory Boy, Catch2
 
 ---
 
-## 📁 Featured Projects
+## :file_folder: Featured Projects
 
-### 📝 [Resume Site (WIP)](https://github.com/Stephen-A-Steyaert/personal-site)  
-A clean Django-based resume website, containerized and deployed using Docker Swarm + Traefik.  
+### :construction: [Personal Site and Blog](https://github.com/Stephen-A-Steyaert/personal-site)  
+A clean Django-based resume website and blog, containerized and deployed using Docker Swarm + Traefik.  
 <!-- 📎 Live at: [resume.helloworld.xyz](https://resume.helloworld.xyz) -->
 
 ---
 
-## 📊 GitHub Stats
+## :bar_chart: GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stephen-A-Steyaert&show_icons=true&theme=radical)
 
@@ -63,8 +63,8 @@ A clean Django-based resume website, containerized and deployed using Docker Swa
 
 ---
 
-## 🌐 Connect With Me
+## :globe_with_meridians: Connect With Me
 
 <!-- - 🧠 [Website](https://resume.helloworld.xyz) -->
 <!-- - 💼 [LinkedIn](https://linkedin.com/in/stevesteyaert) -->
-- 📬 Email: steyaertstephen@gmail.com
+- :mailbox: Email: steyaertstephen@gmail.com
