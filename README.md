@@ -18,14 +18,14 @@ I'm a CS student at Old Dominion and developer who learns by doing - currently w
 
 ### :construction: [smplscript](https://github.com/Stephen-A-Steyaert/smplscript)
 
-A small, interpreted scripting language with a built-in REPL, written entirely in C++.
+A small, interpreted scripting language, written entirely in C++.
 
 **Current features & goals:**  
 - :pencil2: Hand-built tokenizer + parser (recursive descent)  
 - :repeat: Bytecode virtual machine  
-- :inbox_tray: REPL and file execution  
-- :abc: Dynamic typing and simple built-ins  
-- :test_tube: Focused on learning, not performance  
+- :inbox_tray: File execution
+- :abc: Dynamic typing and simple built-ins
+- :test_tube: Focused on learning, not performance; later will be performace focused when it is completed and is open sourced to others
 
 > Learning how languages work — by building one from the ground up.
 
