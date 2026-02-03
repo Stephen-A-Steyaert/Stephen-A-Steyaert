@@ -6,7 +6,7 @@ I'm a CS student at Old Dominion and developer who learns by doing - currently w
 
 ## 🧠 About Me
 
-- :mortar_board: Junior studying Computer Science  
+- :mortar_board: Senior studying Computer Science  
 - 🧱 Partially self-taught - I dive deep into backend systems and APIs outside class  
 - 🛠 Building an **interpreted scripting language** in modern C++ (no frameworks, no hand-holding)  
 - 🕸️ Focused on backend development: APIs, databases, containerized deployments  
