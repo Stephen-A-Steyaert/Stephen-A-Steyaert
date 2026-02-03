@@ -67,4 +67,4 @@ A clean Django-based resume website and blog, containerized and deployed using D
 
 <!-- - 🧠 [Website](https://resume.helloworld.xyz) -->
 <!-- - 💼 [LinkedIn](https://linkedin.com/in/stevesteyaert) -->
-- :mailbox: Email: steyaertstephen@gmail.com
+- :mailbox: Email: stephen@steyaert.xyz
