@@ -45,9 +45,9 @@ A small, interpreted scripting language, written entirely in C++.
 **Testing:**  
 Pytest, Factory Boy, Catch2
 
----
+<!-- ---
 
-## :file_folder: Featured Projects
+## :file_folder: Featured Projects -->
 
 <!-- ### :construction: [Personal Site and Blog](https://github.com/Stephen-A-Steyaert/personal-site) 
 A clean Django-based resume website and blog, containerized and deployed using Docker Swarm + Traefik. -->  
