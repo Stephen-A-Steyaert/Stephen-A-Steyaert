@@ -34,13 +34,13 @@ A small, interpreted scripting language, written entirely in C++.
 ## 🛠 Tech Stack
 
 **Languages:**  
-C++, Python, Java
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
 **Backend & Frameworks:**  
-Django, REST APIs
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="django" width="40" height="40"/> </a>
 
 **Tools & Infrastructure:**  
-Docker, GitHub Actions, Traefik, Nginx, uv
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/> </a> GitHub Actions, <a href="https://doc.traefik.io/traefik/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Traefik_Logo.svg" alt="traefik" width="40" height="40"/></a> Nginx, uv
 
 **Testing:**  
 Pytest, Factory Boy, Catch2
@@ -49,17 +49,9 @@ Pytest, Factory Boy, Catch2
 
 ## :file_folder: Featured Projects
 
-### :construction: [Personal Site and Blog](https://github.com/Stephen-A-Steyaert/personal-site)  
-A clean Django-based resume website and blog, containerized and deployed using Docker Swarm + Traefik.  
+<!-- ### :construction: [Personal Site and Blog](https://github.com/Stephen-A-Steyaert/personal-site) 
+A clean Django-based resume website and blog, containerized and deployed using Docker Swarm + Traefik. -->  
 <!-- 📎 Live at: [resume.helloworld.xyz](https://resume.helloworld.xyz) -->
-
----
-
-## :bar_chart: GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stephen-A-Steyaert&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-A-Steyaert&layout=compact&theme=radical)
 
 ---
 
