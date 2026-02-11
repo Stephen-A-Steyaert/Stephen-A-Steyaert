@@ -57,8 +57,6 @@ A clean Django-based resume website and blog, containerized and deployed using D
 
 ## :bar_chart: My Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=stephen-a-steyaert&show_icons=true&locale=en" alt="stephen-a-steyaert" /></p>
-
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=stephen-a-steyaert&" alt="stephen-a-steyaert" /></p>
 
 ---
