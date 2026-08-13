@@ -75,7 +75,7 @@ Built LTI 1.3 (Learning Tools Interoperability) support so CyberCup.AI training 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/> </a> <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/></a>, <a href="https://doc.traefik.io/traefik/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Traefik_Logo.svg" alt="traefik" width="40" height="40"/></a> <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" width="40" height="40"/></a> <a href="https://github.com/astral-sh/uv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/astral-sh/uv/main/docs/assets/logo-letter.svg" alt="uv" width="40" height="40"/></a>
 
 **Testing:**  
-Pytest, Factory Boy, Catch2
+<a href="https://pytest.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/></a> <a href="https://github.com/catchorg/Catch2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Catch2-C%2B%2B%20Testing-red?style=for-the-badge" alt="Catch2"/></a> <a href="https://factoryboy.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Factory%20Boy-Fixtures-blue?style=for-the-badge" alt="Factory Boy"/></a>
 
 <!-- ---
 
