@@ -28,7 +28,7 @@ Cyber AI Competition Unified Platform (CUP) — a unified hub for cybersecurity 
 
 ### :robot: Agentic AI Security CTF *(in progress)*
 
-Exploit autonomous AI agents using prompt injection, memory poisoning, and goal manipulation to capture flags across multiple difficulty tiers.
+The team is building out a new set of challenges: exploiting autonomous AI agents using prompt injection, memory poisoning, and goal manipulation to capture flags across multiple difficulty tiers.
 
 **"Agent Breaker" challenge ladders — 9 scenarios, each easy through expert:**
 - :airplane: **Atlas Air** — Extract an airline rebooking agent's confidential internal policy (fare-waiver matrix, reason codes, override codes) through prompt extraction, against defenses that get harder to social-engineer around at each tier.
@@ -51,23 +51,9 @@ Exploit autonomous AI agents using prompt injection, memory poisoning, and goal 
 - :receipt: **Invoice Approval** — Manipulate an AI invoice processor (FinAGENT) into approving invoices above its auto-approve threshold, against increasing fraud-detection and scrutiny.
 - :page_facing_up: **Resume Injection** — Get an unqualified candidate approved by CyberHire's AI resume screener, including bypassing a dual-agent security/evaluator architecture.
 
-### :mortar_board: [CyberCup.AI — Training](https://cybercup.ai/learn)
-
-A growing library of hands-on AI security training paths.
-
-**Paths include:**
-- :brain: **AI and LLM Fundamentals** — Learn how large language models work, how they are trained, and how safety guardrails are built.
-- :shield: **AI Security Fundamentals** — Master the core concepts of AI and cybersecurity, from cryptography to prompt injection, through hands-on challenges.
-- :closed_lock_with_key: **AI Security Fundamentals v2 (PRO)** — Advanced AI security: threat modelling, red teaming, privacy, supply chain security, and compliance.
-- :dart: **Prompt Injection (PRO)** — How prompt injection works, from direct and indirect attacks to real-world defenses.
-- :mag: **Prompt Leaking (PRO)** — How attackers extract hidden system prompts and how to protect against it.
-- :unlock: **Jailbreaking (PRO)** — How jailbreaking bypasses AI safety training, from single-turn to multi-turn attacks.
-
-> Each path is broken into modules and hands-on rooms, built to teach AI security by doing.
-
 ### :link: [LTI Integration](https://instructor.cybercup.ai/lti-setup)
 
-Building LTI 1.3 (Learning Tools Interoperability) support so CyberCup.AI training plugs directly into Learning Management Systems.
+Built LTI 1.3 (Learning Tools Interoperability) support so CyberCup.AI training plugs directly into Learning Management Systems.
 
 - :books: Native support for **Moodle** and **Canvas LMS**, plus any LMS supporting LTI 1.3 Advantage
 - :arrows_counterclockwise: OIDC login, tool launch, deep linking, and JWKS endpoints for secure LMS integration
