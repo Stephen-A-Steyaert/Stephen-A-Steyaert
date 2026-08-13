@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Stephen Steyaert
 
-I'm a CS student at Old Dominion and developer who learns by doing - currently working on my own interpreted scripting language in C++.
+I'm a CS student at Old Dominion and developer who learns by doing — currently building [CyberCup.AI](https://cybercup.ai) with a team.
 
 ---
 
